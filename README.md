@@ -1,6 +1,6 @@
 # AndroidInterview
 Collect all kinds of information in the Android interview
-
+- [2.Java](#java)
 # 安卓面试题库
 ----------------------------
 各位Developers 跳槽或者校招时，最重要、最烦恼的就是准备面试，为了方便大家准备面试，创建了Android面试题库。
@@ -23,4 +23,4 @@ Collect all kinds of information in the Android interview
 <span id="java">2.Java</span>
 
 
-- [2.Java](#java)
+
