@@ -9,7 +9,7 @@ Collect all kinds of information in the Android interview
 
 ## 目录
 - [What's included](#whats-included)
-- [1.数据结构与算法](#1.数据结构与算法)
+- [1.数据结构与算法](#number)
 - [2.Java](#2)
 - [3.Android](#3)
 - [4.计算机网络](#4)
