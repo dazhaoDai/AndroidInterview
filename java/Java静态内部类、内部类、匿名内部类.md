@@ -1,12 +1,10 @@
----
-title: Java 进阶   java之内部类(InnerClass)----静态内部类、成员内部类、方法内部类、匿名内部类
-date: 2018年10月09日17:20:21
-categories: Java
-tags: [Java进阶]
----
 
-### 【Java进阶知识】内部类(InnerClass)----静态内部类、成员内部类、方法内部类、匿名内部类
+## Java内部类(InnerClass)----静态内部类、成员内部类、方法内部类、匿名内部类
+Java进阶知识系列文章：
 >[Java进阶知识 —— 算法复杂度o(1), o(n), o(logn), o(nlogn)](https://blog.csdn.net/dazhaoDai/article/details/81631195)
+[Java进阶知识 —— 垃圾回收机制](https://blog.csdn.net/dazhaoDai/article/details/81182396)
+[Java进阶知识 —— 快速排序算法分析](https://blog.csdn.net/dazhaoDai/article/details/80245908)
+[Java进阶知识 —— 算法时间复杂度](https://blog.csdn.net/dazhaoDai/article/details/80191371)
 >
 #### 1.什么是内部类
 面向对象程序设计中，可以在一个类的内部定义另一个类。内部类分为两种，即静态内部类和非静态内部类。非静态内部类又分为成员内部类，方法内部类、匿名内部类
