@@ -10,7 +10,7 @@ Collect all kinds of information in the Android interview
 ## 目录
 - [1.数据结构与算法](#1-数据结构与算法)
 - [2.Java](#java)
-- [3.Android](#3)
+- [3.Android](#3.android)
 - [4.计算机网络](#4)
 - [5.设计模式](#5)
 - [6.性能优化](#6)
@@ -23,12 +23,9 @@ Collect all kinds of information in the Android interview
 - [7.源码分析](#7)
 - [8.面试真题](#8)
 
-<span id="java">aaaaaa</span>
-
-# hello
-# 1-数据结构与算法
-# Java
-3.Android
+## 1.数据结构与算法
+## Java
+## 3.Android
 4.计算机网络
 5.设计模式
 6.性能优化
