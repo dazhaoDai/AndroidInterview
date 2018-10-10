@@ -8,9 +8,9 @@ Collect all kinds of information in the Android interview
 欢迎大家加入，一起整理并维护这个题库，如果觉得有帮助👍，欢迎✨Star✨
 
 ## 目录
-- [1.数据结构与算法](#1-数据结构与算法)
+- [1.数据结构与算法](#数据结构与算法)
 - [2.Java](#java)
-- [3.Android](#3.android)
+- [3.Android](#android)
 - [4.计算机网络](#4)
 - [5.设计模式](#5)
 - [6.性能优化](#6)
