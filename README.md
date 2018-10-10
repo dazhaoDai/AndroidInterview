@@ -21,6 +21,5 @@ Collect all kinds of information in the Android interview
 
 ## 1.数据结构与算法
 
-<span id="java">2.Java</span>
 
 
