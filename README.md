@@ -24,6 +24,7 @@ Collect all kinds of information in the Android interview
 ### Android
 - [面试必问----Android触摸事件机制](https://github.com/dazhaoDai/AndroidInterview/blob/master/android/%E6%B8%85%E6%99%B0%E6%98%8E%E4%BA%86%E7%9A%84Android%E8%A7%A6%E6%91%B8%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6.md)
 ### 设计模式
+- [Java设计模式----代理模式](https://github.com/dazhaoDai/AndroidInterview/blob/master/designpatterns/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F----%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
 ### 性能优化
 ### 源码分析
 ### 计算机网络
